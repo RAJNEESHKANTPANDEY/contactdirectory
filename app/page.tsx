@@ -85,7 +85,7 @@ export default function HomePage() {
             <ShieldCheck size={14} /> Official Register
           </div>
           <h1 className="font-display text-4xl sm:text-5xl font-semibold leading-[1.05] max-w-2xl">
-            DirectoryHQ Contact &amp; Address Register
+            DhenkanalHQ Contact &amp; Address Register
           </h1>
           <p className="text-ink-200 mt-4 max-w-xl text-[15px] leading-relaxed">
             Look up any official, their contact details, and where they sit within the
