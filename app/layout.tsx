@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'DhenkanalHQ — Official Contact & Address Register',
+  title: 'MalkangiriHQ — Official Contact & Address Register',
   description:
     'A professional contact and address management directory with administrative hierarchy.',
 };
