@@ -27,11 +27,7 @@ export default function AdminNav() {
             <ShieldCheck size={16} />
           </div>
           <div>
-<<<<<<< HEAD
             <p className="font-display font-semibold leading-none">MalkangiriHQ</p>
-=======
-            <p className="font-display font-semibold leading-none">NIC Malkangiri</p>
->>>>>>> 999fe12e22da327111eff7f1cc12e81d29ec00b9
             <p className="text-[10px] text-ink-300 uppercase tracking-wide mt-0.5">
               Admin Console
             </p>
