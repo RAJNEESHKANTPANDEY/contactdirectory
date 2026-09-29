@@ -85,7 +85,7 @@ export default function HomePage() {
             <ShieldCheck size={14} /> Official Register
           </div>
           <h1 className="font-display text-4xl sm:text-5xl font-semibold leading-[1.05] max-w-2xl">
-            Dhenkanal-HQ Contact &amp; Address Register
+             National Informatics Center, Malkangiri
           </h1>
           <p className="text-ink-200 mt-4 max-w-xl text-[15px] leading-relaxed">
             Look up any official, their contact details, and where they sit within the
@@ -145,7 +145,7 @@ export default function HomePage() {
       <footer className="border-t border-ink-100 bg-white/60">
         <div className="max-w-6xl mx-auto px-4 sm:px-8 py-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-ink-400">
-            © {new Date().getFullYear()} DhenkanalHQ. Directory maintained by the Administration Office.
+            © {new Date().getFullYear()} MalkangiriHQ. Directory maintained by the Administration Office.
           </p>
           <a
             href="/admin/login"
