@@ -84,8 +84,8 @@ export default function HomePage() {
           <div className="flex items-center gap-2 text-brass-300 text-xs uppercase tracking-[0.25em] font-mono mb-4">
             <ShieldCheck size={14} /> Official Register
           </div>
-          <h1 className="font-display text-4xl sm:text-5xl font-semibold leading-[1.05] max-w-2xl">
-            Dhenkanal-HQ Contact &amp; Address Register
+          <h1 className="font-display text-4xl sm:text-5xl font-bold leading-[1.05] max-w-3xl">
+            National Informatics Center, Malkangiri 
           </h1>
           <p className="text-ink-200 mt-4 max-w-xl text-[15px] leading-relaxed">
             Look up any official, their contact details, and where they sit within the
