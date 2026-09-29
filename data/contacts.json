@@ -1,5 +1,4 @@
 [
-
   {
     "id": "e8f5019f-9db0-4ca2-b4f4-5ce65d7e133e",
     "employeeId": "8046",
@@ -31,5 +30,32 @@
     "notes": "",
     "createdAt": "2026-08-06T10:34:32.043Z",
     "updatedAt": "2026-08-06T10:35:35.195Z"
+  },
+  {
+    "id": "d78e325b-862b-46e3-8da0-334b28569c07",
+    "employeeId": "",
+    "name": "Saumya Ranjan Pal",
+    "designation": "DRM",
+    "department": "Administration",
+    "category": "Leadership",
+    "grade": "",
+    "email": "",
+    "phone": "",
+    "altPhone": "",
+    "officeAddress": "",
+    "city": "",
+    "state": "",
+    "pincode": "",
+    "reportsTo": null,
+    "photo": null,
+    "dateOfJoining": "",
+    "status": "active",
+    "bloodGroup": "",
+    "emergencyContact": "",
+    "officeLocation": "",
+    "tags": [],
+    "notes": "",
+    "createdAt": "2026-09-29T12:07:16.380Z",
+    "updatedAt": "2026-09-29T12:07:16.380Z"
   }
 ]
